@@ -1,0 +1,20 @@
+.label{
+    display: none;
+}
+
+.browsers, .social{
+    border: 2px solid brown;
+}
+
+main{
+    display: flex;
+    flex-direction: column;
+
+}
+
+h2{
+    text-align: center;
+}
+.fa-facebook{
+    color:blue
+}
