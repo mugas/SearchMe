@@ -5,7 +5,7 @@
 body{
   background-color: black;
 }
-}
+
 
 
 main{
@@ -119,7 +119,7 @@ width: 95%;
     margin-left: 2%;
     margin-right: 2%;
   }
-  @media (max-width: 567px) {
+ 
     .name {
       text-align: center;
     }
@@ -134,7 +134,7 @@ width: 95%;
       color: white;
       margin-top: 30px;
     }
-  }
+  
   
   .my-social-media {
     list-style: none;
@@ -157,4 +157,27 @@ width: 95%;
   
   .fa-brands, .fab, .fa-solid, .fas {
     color:white;
+  }
+
+  @media (min-width: 768px){
+
+main{
+  display: flex;
+  justify-content: space-around;
+  flex-direction: inherit;
+
+}
+
+input{
+  height: 3em;
+  width: 500px;
+  color:white
+}
+
+h1,h2{
+  margin-bottom: 5%;
+}
+
+
+
   }
