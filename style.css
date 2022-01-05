@@ -44,6 +44,9 @@ button{
   -webkit-user-select: none;
 
 }   
+input{
+  text-align: left;
+}
 
 button:focus-visible {
     box-shadow: #222222 0 0 0 2px, rgba(255, 255, 255, 0.8) 0 0 0 4px;
@@ -177,6 +180,7 @@ input{
 h1,h2{
   margin-bottom: 5%;
 }
+
 
 
 
