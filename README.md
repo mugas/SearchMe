@@ -23,7 +23,7 @@ The search bar
 
 # Links
 
-[Website](https://tyo.netlify.app/)
+[Website](https://searchall.netlify.app/)
 
 ---
 
